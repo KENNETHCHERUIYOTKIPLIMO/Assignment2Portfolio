@@ -11,3 +11,13 @@ img{
     color: aqua;
     text-decoration-color: blueviolet;
 }
+.container mt-5{
+    margin: 20px auto;
+
+
+}
+
+.separated-footer{
+    margin-top: 40px;
+
+}
